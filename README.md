@@ -1,5 +1,5 @@
 # BallBot
-##DEMO: A Spherical Robot Design
+## DEMO: A Spherical Robot Design
 
 Ballbot is a spherical home robot. This idea is inspired by BB8 Robot in the movie Star Wars. 
 
