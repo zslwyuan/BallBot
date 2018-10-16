@@ -13,6 +13,6 @@ Moreover, putting the phone inside the robot, video can be transmitted to the la
 
 Detailed DEMO could be found in the slides.
 
-[DEMO video1: Trace a QR Code](https://www.youtube.com/watch?v=fHlDRGBHf4k
+[DEMO video1: Trace a QR Code](https://www.youtube.com/watch?v=fHlDRGBHf4k)
 
 [DEMO video2: Trace a Person](https://www.youtube.com/watch?v=3ZY-2NTlDvw)
