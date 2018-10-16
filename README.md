@@ -17,7 +17,4 @@ Detailed DEMO could be found in the slides.
 
 [DEMO video2: Trace a Person](https://www.youtube.com/watch?v=3ZY-2NTlDvw)
 
-<img src="https://github.com/zslwyuan/BallBot/blob/master/pic1_of_ballbot.jpg" width="400"> 
-<img src="https://github.com/zslwyuan/BallBot/blob/master/pic2_of_ballbot.jpg" width="400"> 
-<img src="https://github.com/zslwyuan/BallBot/blob/master/pic3_of_ballbot.jpg" width="400"> 
-<img src="https://github.com/zslwyuan/BallBot/blob/master/pic4_of_ballbot.jpg" width="400"> 
+<img src="https://github.com/zslwyuan/BallBot/blob/master/pic1_of_ballbot.jpg" width="400"> <img src="https://github.com/zslwyuan/BallBot/blob/master/pic2_of_ballbot.jpg" width="400"> <img src="https://github.com/zslwyuan/BallBot/blob/master/pic3_of_ballbot.jpg" width="400"> <img src="https://github.com/zslwyuan/BallBot/blob/master/pic4_of_ballbot.jpg" width="400"> 
