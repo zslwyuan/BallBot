@@ -11,7 +11,7 @@ User can control it via the wheel in phone.
 
 Moreover, putting the phone inside the robot, video can be transmitted to the laptop via Wi-Fi, which can use CV system to guide the robot to trace a particular object send commands to the robot via bluetooth.
 
-Detailed DEMO could be found in **[the slides](https://github.com/zslwyuan/BallBot/blob/master/BallBot.pdf)**.
+Detailed DEMO could be found in **[the slides](https://github.com/zslwyuan/BallBot/blob/master/BallBot.pdf)**. The major challenge now is the high-speed video transmission between the camera inside the ball and the computer (high-level control system).
 
 **[DEMO video1: Trace a QR Code](https://www.youtube.com/watch?v=fHlDRGBHf4k)**
 
